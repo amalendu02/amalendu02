@@ -7,7 +7,7 @@
 
 - 👯 I’m open to collaborate on **Core development projects**
 
-- 💬 Ask me about **Tailwind, JS, React**
+- 💬 Ask me about **Tailwind, JS**
 
 - 📫 How to reach me **amalendumaiti14@gmail.com**
 
